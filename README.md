@@ -1,1 +1,1 @@
-# new-moon-hijria-calculator
+# New Moon Hijria Calculator
