@@ -1,6 +1,10 @@
 # New Moon Hijria Calculator
 
-- Dependencies:
+**Descriptions:**
+
+Simple code to calculate 1 Ramadhan, 1 Syawal and 1 Dzulhijjah based on MABIMS criteria.
+
+**Dependencies:**
 ```
 pylunar
 suntime
